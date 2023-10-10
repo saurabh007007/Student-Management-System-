@@ -1,1 +1,1 @@
-#This is the project which helpful in manageing the student record
+# This is the project which helpful in manageing the student record
